@@ -1,1 +1,1 @@
-Fuck You, Haters.
+Love You, Haters.
