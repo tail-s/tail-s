@@ -101,7 +101,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/swift-ffac45?style=flat&logo=swift&logoColor=white
           alt=""
-        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "><img
+        /><img
           key=436147.68824020214
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white
