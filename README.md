@@ -20,11 +20,11 @@
   </div>
   
   <div key="2">
-    <img src=https://github-readme-stats.vercel.app/api?username=Oliverslife&show_icons=true&theme=dark width="350" height="150" alt="githubStats" />
+    <img src=https://github-readme-stats.vercel.app/api?username=MyFinale&show_icons=true&theme=dark width="350" height="150" alt="githubStats" />
   </div>
   
   <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverslife&theme=dark width="280" height=270 alt="MUL" />
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MyFinale&theme=dark width="280" height=270 alt="MUL" />
   </div>
   
   <div key="1">
