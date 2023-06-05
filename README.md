@@ -37,6 +37,11 @@
           src=https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white
           alt=""
         /> <img
+          key=645845.7391700649
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
+          alt=""
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
           key=649076.3243253977
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/java-b07219?style=flat&logo=java&logoColor=white
@@ -51,7 +56,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white
           alt=""
-        /> <img
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
           key=821940.1727902615
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white
@@ -71,7 +76,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white
           alt=""
-        /> <img
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
           key=589786.3518516001
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white
@@ -81,7 +86,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white
           alt=""
-        /> <img
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
           key=252570.76711743817
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/python-3581ba?style=flat&logo=python&logoColor=white
@@ -91,22 +96,22 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white
           alt=""
-        /> <img
-          key=645845.7391700649
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
-          alt=""
-        /> <img
-          key=436704.5610008562
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/swift-ffac45?style=flat&logo=swift&logoColor=white
-          alt=""
-        /><img
+        />  <img
           key=436147.68824020214
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white
           alt=""
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
+          key=436704.5610008562
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/swift-ffac45?style=flat&logo=swift&logoColor=white
+          alt=""
         /> <img
+          key=918393.040091461
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/solidity-363636?style=flat&logo=solidity&logoColor=white
+          alt=""
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "> <img
           key=896774.9328291947
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white
@@ -116,12 +121,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/jirasoftware-0052CC?style=flat&logo=jirasoftware&logoColor=white
           alt=""
-        /> <img
-          key=918393.040091461
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/solidity-363636?style=flat&logo=solidity&logoColor=white
-          alt=""
-        /></div></div>
+        /> </div></div>
   </div>
   
   <div key="2">
