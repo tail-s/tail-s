@@ -17,3 +17,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tail-s&theme=flat&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails)](https://solved.ac/tails/)
