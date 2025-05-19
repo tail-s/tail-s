@@ -16,4 +16,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tail-s&theme=flat&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails)](https://solved.ac/tails/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails)](https://solved.ac/tails/) -->
+
+Heelo, word.
