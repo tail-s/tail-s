@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kpfis)](https://solved.ac/kpfis/)
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails)](https://solved.ac/tails/)
 <br/>
